@@ -1,4 +1,4 @@
-# Creating-a-bus-topology-using-NS2
+![WhatsApp Image 2025-10-03 at 08 52 26_c86f5833](https://github.com/user-attachments/assets/76673c83-94bc-4e3f-9633-8e82d5a0233f)# Creating-a-bus-topology-using-NS2
 # Bus Topology Simulation in NS2
 
 ## AIM
@@ -32,4 +32,7 @@ file.
 * STEP 16: At the particular time call the finish procedure. 
 * STEP 17: Stop the program.
 
-![NS2 Bus topology](NS2 Bus topology.png)
+## RESULT
+
+![NS2 Bus topology](![1st expt](https://github.com/user-attachments/assets/871f2925-4ebc-49f4-b47e-99165044696a)
+)
