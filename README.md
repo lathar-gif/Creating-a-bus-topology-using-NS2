@@ -1,4 +1,4 @@
-# Creating-a-bus-topology-using-NS2
+# Cycle 3 NS2 EXP 1 - Creating-a-bus-topology-using-NS2
 # Bus Topology Simulation in NS2
 
 ## AIM
