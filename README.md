@@ -1,4 +1,4 @@
-# Cycle 2 --5 - Simulation of -bus-topology-Network -NS2
+# Creating-a-bus-topology-using-NS2
 # Bus Topology Simulation in NS2
 
 ## AIM
@@ -32,7 +32,8 @@ file.
 * STEP 16: At the particular time call the finish procedure. 
 * STEP 17: Stop the program.
 
-#Create a simulator object 
+## CODE:
+```#Create a simulator object 
 set ns [new Simulator] 
 #Open the nam trace file 
 set nf [open out.nam w] 
@@ -75,3 +76,10 @@ $ns at 4.5 "$cbr0 stop"
 #Call the finish procedure after 5 seconds of simulation time 
 $ns at 5.0 "finish" 
 $ns run
+```
+
+## OUTPUT
+![WhatsApp Image 2025-10-03 at 09 46 23_080e62f1](https://github.com/user-attachments/assets/628967e4-df91-49fa-a603-bae32bc115b4)
+## RESULT
+The simulation successfully demonstrates a bus topology setup and data transmission using NS2.
+
